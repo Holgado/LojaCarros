@@ -1,0 +1,2 @@
+C:\Users\Marcelo\OneDrive - PUCRS - BR\Projetos\repos C++\LojaCarros\Debug\LojaCarros.exe
+C:\Users\Marcelo\OneDrive - PUCRS - BR\Projetos\repos C++\LojaCarros\Debug\LojaCarros.pdb
